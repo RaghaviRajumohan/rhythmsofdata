@@ -2,39 +2,57 @@ title: Raghavi Rajumohan
 description: >
   Passionate about uncovering data insights to drive informed business decisions and actionable strategies.
   <br><br>
-  <!-- Experiences Section -->
-  <strong style="font-size: 1em; display: block; margin-bottom: 5px; margin-top: 0;">Experiences:</strong>
-  <ul style="list-style: none; padding-left: 0; max-width: 800px; margin: 20px auto; line-height: 1.5; font-size: 0.9em;">
-    <li style="margin-bottom: 20px;">
-      <div style="font-weight: bold; color: #6e8cd4;">Jul 2024 - Present</div>
-      <div style="font-weight: bold;">Data Metrics Analyst Intern</div>
-      <div>University of California, Office of the President</div>
-    </li>
-    <li style="margin-bottom: 20px;">
-      <div style="font-weight: bold; color: #6e8cd4;">Jan 2024 - May 2024</div>
-      <div style="font-weight: bold;">Data Analyst and Project Mentor</div>
-      <div>UCLA Alumni Affairs</div>
-    </li>
-    <li style="margin-bottom: 20px;">
-      <div style="font-weight: bold; color: #6e8cd4;">Sep 2020 - Jul 2023</div>
-      <div style="font-weight: bold;">Data Analysis General Manager</div>
-      <div>WageIndicator Foundation Research Lab</div>
-    </li>
-    <li>
-      <div style="font-weight: bold; color: #6e8cd4;">May 2021 - Jul 2022</div>
-      <div style="font-weight: bold;">Business Development Intern</div>
-      <div>TATA Electronics Pvt. Ltd.</div>
-    </li>
 
-    <strong style="margin-top: 20px; display: block;">Connect with Me:</strong>
-  <ul style="list-style-type: none; padding-left: 0; margin: 10px 0;">
-    <li style="margin: 5px 0;">
-      <a href="https://www.linkedin.com/in/raghavirajumohan/" style="color:#6a0dad; display: flex; align-items: center;">
-        <img src="images/linkedin.png" alt="LinkedIn" style="width:30px;height:30px;margin-right:10px;">
-        LinkedIn
-      </a>
-    </li>
-  </ul>
+    <!-- Experiences Section -->
+  <strong style="font-size: 1em; display: block; margin-bottom: 5px; margin-top: 0;">Experiences:</strong>
+  <div style="position: relative; max-width: 800px; margin: 20px auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+
+    <!-- Experience 1 -->
+    <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jul 2024 - Present</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Data Metrics Analyst Intern</div>
+      <div style="font-size: 0.9em;">University of California, Office of the President</div>
+    </div>
+  
+    <!-- Experience 2 -->
+    <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jan 2024 - May 2024</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Data Analyst and Project Mentor</div>
+      <div style="font-size: 0.9em;">UCLA Alumni Affairs</div>
+    </div>
+
+        <!-- Experience 3 -->
+    <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Sep 2020 - Jul 2023</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Data Analysis General Manager</div>
+      <div style="font-size: 0.9em;">WageIndicator Foundation Research Lab</div>
+    </div>
+  
+    <!-- Experience 4 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">May 2021 - Jul 2022</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Business Development Intern</div>
+      <div style="font-size: 0.9em;">TATA Electronics Pvt. Ltd.</div>
+    </div>
+
+  </div>
+
+<strong style="margin-top: 20px; display: block;">Connect with Me:</strong>
+<ul style="list-style-type: none; padding-left: 0; margin: 10px 0;">
+  <li style="margin: 5px 0;">
+    <a href="https://www.linkedin.com/in/raghavirajumohan/" style="color:#6a0dad; display: flex; align-items: center;">
+      <img src="images/linkedin.png" alt="LinkedIn" style="width:30px;height:30px;margin-right:10px;">
+      LinkedIn
+    </a>
+  </li>
+  <li style="margin: 5px 0;">
+    <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data" style="color:#6a0dad; display: flex; align-items: center;">
+      <img src="images/github.png" alt="GitHub" style="width:30px;height:30px;margin-right:10px;">
+      GitHub
+    </a>
+  </li>
+</ul>
+  
 show_downloads: true
 theme: jekyll-theme-minimal
 
