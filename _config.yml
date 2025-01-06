@@ -56,12 +56,6 @@ description: >
 show_downloads: true
 theme: jekyll-theme-minimal
 
-# Optional social links
-social_links:
-  linkedin: "https://www.linkedin.com/in/raghavirajumohan/"
-  github: "https://github.com/raghavirajumohan"
-  email: "raghaviraj@g.ucla.edu"
-
 # Optional: Add Sass compression
 sass:
   style: compressed
