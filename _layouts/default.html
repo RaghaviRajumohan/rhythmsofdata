@@ -12,57 +12,77 @@
     <![endif]-->
     {% include head-custom.html %}
     <style>
-      /* Custom styling for the experiences and cards */
-      .experience-card {
-        max-width: 600px;
+      /* Custom styling for experiences and layout */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+        color: #333;
+        margin: 0;
+        padding: 0;
+      }
+
+      .wrapper {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+
+      header {
+        text-align: center;
+        margin-bottom: 40px;
+      }
+
+      header h1 {
+        font-size: 2.5em;
+        margin: 0;
+      }
+
+      header img {
+        max-width: 150px;
         margin: 20px auto;
-        padding: 15px;
+      }
+
+      .experience-card {
+        background-color: #fff;
+        padding: 20px;
+        margin-bottom: 20px;
         border: 1px solid #ddd;
         border-radius: 8px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        background-color: #fff;
-        font-family: Arial, sans-serif;
       }
 
-      .experience-card div {
-        margin-bottom: 10px;
-      }
-
-      .experience-date {
-        font-weight: bold;
+      .experience-card .date {
+        font-size: 0.9em;
         color: #6e8cd4;
-        font-size: 0.9em;
-      }
-
-      .experience-title {
         font-weight: bold;
-        font-size: 1.1em;
       }
 
-      .experience-organization {
-        font-size: 0.9em;
+      .experience-card .title {
+        font-size: 1.2em;
+        font-weight: bold;
+        margin: 5px 0;
+      }
+
+      .experience-card .organization {
+        font-size: 1em;
         color: #555;
       }
 
-      .connect-section {
-        max-width: 600px;
-        margin: 20px auto;
+      .connect {
         text-align: center;
-        font-family: Arial, sans-serif;
+        margin-top: 40px;
       }
 
-      .connect-section a {
-        color: #6a0dad;
+      .connect a {
         text-decoration: none;
-        font-size: 1em;
-        display: inline-flex;
-        align-items: center;
-        margin: 10px 0;
+        color: #6a0dad;
+        font-size: 1.2em;
       }
 
-      .connect-section img {
-        width: 30px;
-        height: 30px;
+      .connect img {
+        width: 24px;
+        height: 24px;
+        vertical-align: middle;
         margin-right: 10px;
       }
     </style>
@@ -84,36 +104,40 @@
         <h2 style="text-align: center;">Experiences:</h2>
         {% for experience in site.experiences %}
         <div class="experience-card">
-          <div class="experience-date">{{ experience.date }}</div>
-          <div class="experience-title">{{ experience.title }}</div>
-          <div class="experience-organization">{{ experience.organization }}</div>
+          <div class="date">{{ experience.date }}</div>
+          <div class="title">{{ experience.title }}</div>
+          <div class="organization">{{ experience.organization }}</div>
         </div>
         {% endfor %}
       </section>
 
-      <!-- Connect with Me Section -->
-      <section>
-        <div class="connect-section">
-          <h2>Connect with Me:</h2>
-          {% if site.social_links.linkedin %}
+      <!-- Connect Section -->
+      <section class="connect">
+        <h2>Connect with Me:</h2>
+        {% if site.social_links.linkedin %}
+        <p>
           <a href="{{ site.social_links.linkedin }}">
             <img src="/assets/images/linkedin.png" alt="LinkedIn" />
             LinkedIn
           </a>
-          {% endif %}
-          {% if site.social_links.github %}
+        </p>
+        {% endif %}
+        {% if site.social_links.github %}
+        <p>
           <a href="{{ site.social_links.github }}">
             <img src="/assets/images/github.png" alt="GitHub" />
             GitHub
           </a>
-          {% endif %}
-          {% if site.social_links.email %}
+        </p>
+        {% endif %}
+        {% if site.social_links.email %}
+        <p>
           <a href="{{ site.social_links.email }}">
             <img src="/assets/images/email.png" alt="Email" />
             Email Me
           </a>
-          {% endif %}
-        </div>
+        </p>
+        {% endif %}
       </section>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
