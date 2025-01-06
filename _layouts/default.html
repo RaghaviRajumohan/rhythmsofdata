@@ -7,12 +7,7 @@
 
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    {% include head-custom.html %}
     <style>
-      /* Custom styling for experiences and layout */
       body {
         font-family: Arial, sans-serif;
         background-color: #f9f9f9;
@@ -37,18 +32,12 @@
         margin: 0;
       }
 
-      header img {
-        max-width: 150px;
-        margin: 20px auto;
-      }
-
       .experience-card {
         background-color: #fff;
         padding: 20px;
         margin-bottom: 20px;
         border: 1px solid #ddd;
         border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       }
 
       .experience-card .date {
@@ -77,6 +66,7 @@
         text-decoration: none;
         color: #6a0dad;
         font-size: 1.2em;
+        margin-right: 15px;
       }
 
       .connect img {
@@ -90,13 +80,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ '/' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
       </header>
 
       <!-- Experiences Section -->
@@ -115,31 +100,24 @@
       <section class="connect">
         <h2>Connect with Me:</h2>
         {% if site.social_links.linkedin %}
-        <p>
-          <a href="{{ site.social_links.linkedin }}">
-            <img src="/assets/images/linkedin.png" alt="LinkedIn" />
-            LinkedIn
-          </a>
-        </p>
+        <a href="{{ site.social_links.linkedin }}">
+          <img src="/assets/images/linkedin.png" alt="LinkedIn" />
+          LinkedIn
+        </a>
         {% endif %}
         {% if site.social_links.github %}
-        <p>
-          <a href="{{ site.social_links.github }}">
-            <img src="/assets/images/github.png" alt="GitHub" />
-            GitHub
-          </a>
-        </p>
+        <a href="{{ site.social_links.github }}">
+          <img src="/assets/images/github.png" alt="GitHub" />
+          GitHub
+        </a>
         {% endif %}
         {% if site.social_links.email %}
-        <p>
-          <a href="{{ site.social_links.email }}">
-            <img src="/assets/images/email.png" alt="Email" />
-            Email Me
-          </a>
-        </p>
+        <a href="{{ site.social_links.email }}">
+          <img src="/assets/images/email.png" alt="Email" />
+          Email Me
+        </a>
         {% endif %}
       </section>
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   </body>
 </html>
