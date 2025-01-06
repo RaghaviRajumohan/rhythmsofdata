@@ -1,4 +1,4 @@
-## Projects
+## PROJECTS
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
