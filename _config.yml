@@ -1,6 +1,41 @@
-title: Minimal theme
+title: Raghavi Rajumohan
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: >
+  Passionate about uncovering data insights to drive informed business decisions and actionable strategies.
+  <br><br>
+  <!-- Experiences Section -->
+  <strong style="font-size: 1em; display: block; margin-bottom: 5px; margin-top: 0;">Experiences:</strong>
+  <ul style="list-style: none; padding-left: 0; max-width: 800px; margin: 20px auto; line-height: 1.5; font-size: 0.9em;">
+    <li style="margin-bottom: 20px;">
+      <div style="font-weight: bold; color: #6e8cd4;">Jul 2024 - Present</div>
+      <div style="font-weight: bold;">Data Metrics Analyst Intern</div>
+      <div>University of California, Office of the President</div>
+    </li>
+    <li style="margin-bottom: 20px;">
+      <div style="font-weight: bold; color: #6e8cd4;">Jan 2024 - May 2024</div>
+      <div style="font-weight: bold;">Data Analyst and Project Mentor</div>
+      <div>UCLA Alumni Affairs</div>
+    </li>
+    <li style="margin-bottom: 20px;">
+      <div style="font-weight: bold; color: #6e8cd4;">Sep 2020 - Jul 2023</div>
+      <div style="font-weight: bold;">Data Analysis General Manager</div>
+      <div>WageIndicator Foundation Research Lab</div>
+    </li>
+    <li>
+      <div style="font-weight: bold; color: #6e8cd4;">May 2021 - Jul 2022</div>
+      <div style="font-weight: bold;">Business Development Intern</div>
+      <div>TATA Electronics Pvt. Ltd.</div>
+    </li>
+  </ul>
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
+
+# Optional social links
+social_links:
+  linkedin: "https://www.linkedin.com/in/raghavirajumohan/"
+  github: "https://github.com/raghavirajumohan"
+  email: "raghaviraj@g.ucla.edu"
+
+# Optional: Add Sass compression
+sass:
+  style: compressed
