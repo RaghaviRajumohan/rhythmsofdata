@@ -25,6 +25,15 @@ description: >
       <div style="font-weight: bold;">Business Development Intern</div>
       <div>TATA Electronics Pvt. Ltd.</div>
     </li>
+
+    <strong style="margin-top: 20px; display: block;">Connect with Me:</strong>
+  <ul style="list-style-type: none; padding-left: 0; margin: 10px 0;">
+    <li style="margin: 5px 0;">
+      <a href="https://www.linkedin.com/in/raghavirajumohan/" style="color:#6a0dad; display: flex; align-items: center;">
+        <img src="images/linkedin.png" alt="LinkedIn" style="width:30px;height:30px;margin-right:10px;">
+        LinkedIn
+      </a>
+    </li>
   </ul>
 show_downloads: true
 theme: jekyll-theme-minimal
