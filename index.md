@@ -7,7 +7,7 @@
 <h3>Music Streams Prediction Model</h3>
 
 <p>
-This project analyzes Spotify and YouTube data to predict song popularity using a regression model. With over 20,000 records and 27 features, I identified key drivers like comments, acoustic attributes, and optimal duration through feature selection methods such as Boruta SHAP and VIF. The model incorporates interaction and non-linear terms to reveal nuanced relationships between musical features and engagement. Insights from this project support data-driven strategies for production, marketing, and playlist curation, empowering stakeholders to optimize audience engagement and streaming success.
+This project leverages Spotify and YouTube data (20,000+ records, 27 features) to develop a regression model for predicting song popularity. By employing advanced feature selection techniques like Boruta SHAP and Variance Inflation Factor (VIF), I identified key drivers, including comments, acoustic attributes, and optimal track duration. The model integrates interaction terms and non-linear components to uncover complex relationships between musical features and audience engagement. Findings provide actionable insights to inform data-driven decisions for music production, marketing campaigns, and playlist optimization, enabling stakeholders to enhance streaming performance and audience retention.
 </p>
 
 <p>
@@ -36,7 +36,7 @@ This project analyzes Spotify and YouTube data to predict song popularity using 
 <h3>Music Streams Prediction Calculator</h3>
 
 <p>
-The interactive Streams Prediction Calculator extends the prediction model's utility, allowing users to input song features and receive real-time streaming predictions through a cloud-hosted interface. This tool empowers music industry stakeholders to optimize production, marketing, and playlist strategies with data-driven insights.
+This tool extends the streams prediction model by providing an interactive, cloud-hosted interface that allows users to input song features and receive real-time streaming predictions. Designed to empower music industry stakeholders, the calculator supports data-driven decision-making for production, marketing, and playlist optimization strategies. Its intuitive design bridges technical insights with actionable business applications, enhancing the utility of predictive analytics in the music industry.
 </p>
 
 <p>
@@ -63,7 +63,7 @@ The interactive Streams Prediction Calculator extends the prediction model's uti
 <h3>Dynamic Concert Ticket Price Prediction Model</h3>
 
 <p>
-I created a custom dataset to train a predictive model for concert ticket pricing, incorporating factors like artist popularity, event timing, and supporting acts. Through analysis and model development, I identified key drivers of ticket prices and provided actionable insights into pricing strategies. Additionally, I developed a Dynamic Ticket Price Calculator, a user-friendly tool that allows users to input event details and receive instant price predictions. This project empowers stakeholders in the events industry to optimize revenue and enhance decision-making with data-driven strategies.
+I developed a custom dataset to train a predictive model for concert ticket pricing, incorporating variables such as artist popularity, event timing, and supporting acts. Using advanced data analysis and modeling techniques, I identified key drivers influencing ticket prices and delivered actionable insights for strategic pricing. To enhance practical application, I built a Dynamic Ticket Price Calculator, an intuitive, user-friendly tool enabling stakeholders to input event details and receive instant price predictions. This project empowers the events industry with data-driven strategies, optimizing revenue generation and enhancing decision-making in real time.
 </p>
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
@@ -87,8 +87,17 @@ I created a custom dataset to train a predictive model for concert ticket pricin
 <h3>Music Genre Classification Model</h3>
 
 <p>
-In this project, I built a machine learning model to classify songs into genres based on their audio features, such as tempo, rhythm, and frequency, which were extracted from audio files. I identified key characteristics that distinguish genres and trained a predictive model to achieve accurate classifications, showcasing the power of data-driven approaches in understanding and organizing music. This work has applications in music recommendation systems, playlist curation, and audience engagement strategies for the music industry.
+In this project, I developed a machine learning model to classify songs into genres based on audio features, including tempo, rhythm, and frequency, extracted directly from audio files. Through feature analysis, I identified key attributes that differentiate genres and trained a predictive model to achieve high classification accuracy. This work demonstrates the power of data-driven insights in understanding and organizing music. Applications include music recommendation systems, playlist curation, and enhancing audience engagement strategies in the music industry.
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0052CC?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning Badge" />
+  <img src="https://img.shields.io/badge/Audio%20Feature%20Engineering-4CAF50?style=flat-square&logo=python&logoColor=white" alt="Audio Feature Engineering Badge" />
+  <img src="https://img.shields.io/badge/Classification%20Model-orange?style=flat-square&logo=python&logoColor=white" alt="Classification Model Badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-3776AB?style=flat-square&logo=pandas&logoColor=white" alt="Data Analysis Badge" />
+  <img src="https://img.shields.io/badge/Feature%20Selection-blueviolet?style=flat-square&logo=python&logoColor=white" alt="Feature Selection Badge" />
+</p>
+
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <div style="flex: 1; text-align: center;">
@@ -114,7 +123,7 @@ In this project, I built a machine learning model to classify songs into genres 
 <h3>YouTube Comments Sentiment Analysis</h3>
 
 <p>
-This project explores the sentiment behind audience reactions to YouTube videos in the music industry. Using the YouTube API, I extracted video metadata and comments, performed data cleaning, and built a machine learning model to classify comments as positive, neutral, or negative. I also conducted a regression analysis using sentiment scores and engagement metrics (likes, comments) to predict video view counts. This work provides actionable insights for optimizing content strategies and deepening audience connections for artists and industry stakeholders.
+This project analyzes audience sentiment in the music industry by leveraging the YouTube API to extract video metadata and comments. I performed data cleaning and developed a machine learning model to classify comments into positive, neutral, or negative sentiment. Additionally, I conducted a regression analysis to examine the relationship between sentiment scores, engagement metrics (e.g., likes, comments), and video view counts. The findings offer actionable insights to optimize content strategies and enhance audience engagement, empowering artists and industry stakeholders to strengthen connections with their audiences.
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 20px;">
@@ -135,12 +144,9 @@ This project explores the sentiment behind audience reactions to YouTube videos 
 <h3>Automated Music Metrics Extraction</h3>
 
 <p>
-This project automates the tracking and analysis of music-related metrics across platforms. Using the YouTube Data API and Spotify Web API, metrics like views, likes, comments, subscriber counts, Spotify popularity, and follower data are extracted daily and stored in a centralized Google Sheet. Comment data, including timestamps and sentiment scores, is also collected for engagement analysis.
+This project automates the daily tracking and analysis of music-related metrics across platforms using the YouTube Data API and Spotify Web API. Key metrics, such as views, likes, comments, subscriber counts, Spotify popularity, and follower data, are extracted and stored in a centralized Google Sheet for streamlined analysis. Additionally, comment data, including timestamps and sentiment scores, is collected to facilitate engagement analysis. This system provides a scalable solution for monitoring audience behavior, offering valuable insights to inform marketing strategies and content optimization in the music industry.
 </p>
 
-<p>
-By streamlining data collection, this solution provides real-time updates and actionable insights for artists, managers, and stakeholders, enabling efficient performance evaluation, audience sentiment analysis, and trend identification across platforms.
-</p>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
   <div style="width: 80%; text-align: center;">
