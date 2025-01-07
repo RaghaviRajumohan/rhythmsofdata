@@ -3,24 +3,6 @@
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>Tableau Dashboard for Payroll Operations, University of California</h3>
-<p>
-This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s <code>statsmodels</code> library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
-</p>
-
-<div style="text-align: center; margin-top: 20px;">
-  <h4>Tableau Demo</h4>
-  <video width="500" height="350" controls>
-    <source src="assets/Tableau_Demo.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-</div>
-
----------
-
-<div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
   
 <h3>Music Streams Prediction Model</h3>
 
@@ -91,6 +73,24 @@ I created a custom dataset to train a predictive model for concert ticket pricin
 </div>
 
 -----
+
+<div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
+<h3>Tableau Dashboard for Payroll Operations, University of California</h3>
+<p>
+This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s <code>statsmodels</code> library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
+</p>
+
+<div style="text-align: center; margin-top: 20px;">
+  <h4>Tableau Demo</h4>
+  <video width="500" height="350" controls>
+    <source src="assets/Tableau_Demo.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+</div>
+
+---------
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>Music Genre Classification Model</h3>
