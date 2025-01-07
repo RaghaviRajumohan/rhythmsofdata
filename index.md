@@ -39,6 +39,14 @@ This project analyzes Spotify and YouTube data to predict song popularity using 
 The interactive Streams Prediction Calculator extends the prediction model's utility, allowing users to input song features and receive real-time streaming predictions through a cloud-hosted interface. This tool empowers music industry stakeholders to optimize production, marketing, and playlist strategies with data-driven insights.
 </p>
 
+<p>
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![ipywidgets](https://img.shields.io/badge/ipywidgets-336791?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-CC0000?style=flat-square&logo=python&logoColor=white)
+</p>
+
 <div style="text-align: center; margin-top: 20px;">
   <p><strong>Demo</strong></p>
   <video autoplay loop muted controls style="width: 60%; max-width: 300px; height: auto;">
