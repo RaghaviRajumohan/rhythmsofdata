@@ -66,6 +66,15 @@ This tool extends the streams prediction model by providing an interactive, clou
 I developed a custom dataset to train a predictive model for concert ticket pricing, incorporating variables such as artist popularity, event timing, and supporting acts. Using advanced data analysis and modeling techniques, I identified key drivers influencing ticket prices and delivered actionable insights for strategic pricing. To enhance practical application, I built a Dynamic Ticket Price Calculator, an intuitive, user-friendly tool enabling stakeholders to input event details and receive instant price predictions. This project empowers the events industry with data-driven strategies, optimizing revenue generation and enhancing decision-making in real time.
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Predictive%20Model-0052CC?style=flat-square&logo=scikit-learn&logoColor=white" alt="Predictive Model Badge" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-blue?style=flat-square&logo=python&logoColor=white" alt="Data Engineering Badge" />
+  <img src="https://img.shields.io/badge/Custom%20Dataset-orange?style=flat-square&logo=data-analysis&logoColor=white" alt="Custom Dataset Badge" />
+  <img src="https://img.shields.io/badge/Dynamic%20Pricing-4CAF50?style=flat-square&logo=data-analysis&logoColor=white" alt="Dynamic Pricing Badge" />
+  <img src="https://img.shields.io/badge/Revenue%20Optimization-8E44AD?style=flat-square&logo=data-analysis&logoColor=white" alt="Revenue Optimization Badge" />
+</p>
+
+
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <div style="width: 50%; text-align: center;">
     <p><strong>Demo</strong></p>
@@ -94,7 +103,6 @@ In this project, I developed a machine learning model to classify songs into gen
   <img src="https://img.shields.io/badge/Machine%20Learning-0052CC?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning Badge" />
   <img src="https://img.shields.io/badge/Audio%20Feature%20Engineering-4CAF50?style=flat-square&logo=python&logoColor=white" alt="Audio Feature Engineering Badge" />
   <img src="https://img.shields.io/badge/Classification%20Model-orange?style=flat-square&logo=python&logoColor=white" alt="Classification Model Badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-3776AB?style=flat-square&logo=pandas&logoColor=white" alt="Data Analysis Badge" />
   <img src="https://img.shields.io/badge/Feature%20Selection-blueviolet?style=flat-square&logo=python&logoColor=white" alt="Feature Selection Badge" />
 </p>
 
@@ -126,6 +134,15 @@ In this project, I developed a machine learning model to classify songs into gen
 This project analyzes audience sentiment in the music industry by leveraging the YouTube API to extract video metadata and comments. I performed data cleaning and developed a machine learning model to classify comments into positive, neutral, or negative sentiment. Additionally, I conducted a regression analysis to examine the relationship between sentiment scores, engagement metrics (e.g., likes, comments), and video view counts. The findings offer actionable insights to optimize content strategies and enhance audience engagement, empowering artists and industry stakeholders to strengthen connections with their audiences.
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/YouTube%20API-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API Badge" />
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-blue?style=flat-square&logo=scikit-learn&logoColor=white" alt="Sentiment Analysis Badge" />
+  <img src="https://img.shields.io/badge/Regression%20Model-lightblue?style=flat-square&logo=scikit-learn&logoColor=white" alt="Regression Model Badge" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-34A853?style=flat-square&logo=python&logoColor=white" alt="Data Cleaning Badge" />
+  <img src="https://img.shields.io/badge/Engagement%20Metrics-orange?style=flat-square&logo=data-analysis&logoColor=white" alt="Engagement Metrics Badge" />
+</p>
+
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 20px;">
   <div style="width: 45%; text-align: center;">
     <p><strong>Word Cloud of Comments</strong></p>
@@ -145,6 +162,14 @@ This project analyzes audience sentiment in the music industry by leveraging the
 
 <p>
 This project automates the daily tracking and analysis of music-related metrics across platforms using the YouTube Data API and Spotify Web API. Key metrics, such as views, likes, comments, subscriber counts, Spotify popularity, and follower data, are extracted and stored in a centralized Google Sheet for streamlined analysis. Additionally, comment data, including timestamps and sentiment scores, is collected to facilitate engagement analysis. This system provides a scalable solution for monitoring audience behavior, offering valuable insights to inform marketing strategies and content optimization in the music industry.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/YouTube%20Data%20API-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Data API Badge" />
+  <img src="https://img.shields.io/badge/Spotify%20Web%20API-green?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Web API Badge" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets Badge" />
+  <img src="https://img.shields.io/badge/Data%20Automation-0052CC?style=flat-square&logo=google-cloud&logoColor=white" alt="Data Automation Badge" />
+  <img src="https://img.shields.io/badge/Engagement%20Analysis-orange?style=flat-square&logo=data-analysis&logoColor=white" alt="Engagement Analysis Badge" />
 </p>
 
 
