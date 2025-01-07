@@ -196,14 +196,19 @@ This project automates the daily tracking and analysis of music-related metrics 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>Tableau Dashboard for Payroll Operations, University of California</h3>
 <p>
-This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s <code>statsmodels</code> library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
+I developed a real-time, automated Tableau dashboard to monitor tax form issuance and paycheck delivery, streamlining payroll decision-making. The project involved designing a SQL-automated data pipeline to feed live data into Tableau, enabling dynamic filtering and targeted analysis reports for actionable insights. To enhance forecasting capabilities, I implemented time series models (ARIMA) using Python’s Statsmodels library, predicting future file volumes to optimize resource allocation and improve operational efficiency.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Automation Badge" />
-<img src="https://img.shields.io/badge/Tableau-orange?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge" />
-<img src="https://img.shields.io/badge/Time_Series_Analysis-purple?style=flat-square&logo=chart-bar&logoColor=white" alt="Time Series Analysis Badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge" />
+  <img src="https://img.shields.io/badge/SQL%20Pipeline-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Pipeline Badge" />
+  <img src="https://img.shields.io/badge/Dynamic%20Filters-blue?style=flat-square&logo=tableau&logoColor=white" alt="Dynamic Filters Badge" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-4CAF50?style=flat-square&logo=python&logoColor=white" alt="Time Series Forecasting Badge" />
+  <img src="https://img.shields.io/badge/ARIMA%20Model-3776AB?style=flat-square&logo=python&logoColor=white" alt="ARIMA Model Badge" />
+  <img src="https://img.shields.io/badge/Operational%20Efficiency-orange?style=flat-square&logo=data-analysis&logoColor=white" alt="Operational Efficiency Badge" />
+  <img src="https://img.shields.io/badge/Resource%20Optimization-8E44AD?style=flat-square&logo=data-analysis&logoColor=white" alt="Resource Optimization Badge" />
 </p>
+
 
 <div style="text-align: center; margin-top: 20px;">
   <h4>Tableau Demo</h4>
