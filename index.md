@@ -1,20 +1,12 @@
 ## PROJECTS
+
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-
 <h3>Tableau Dashboard for Payroll Operations, University of California</h3>
-
 <p>
 This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s <code>statsmodels</code> library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
 </p>
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/SQL_Automation-3776AB?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Automation Badge" />
-  <img src="https://img.shields.io/badge/Tableau-F2AC00?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge" />
-  <img src="https://img.shields.io/badge/Time_Series_Analysis-3776AB?style=flat-square&logo=whirl&logoColor=white" alt="Time Series Analysis Badge" />
-
-</div>
 
 <div style="text-align: center; margin-top: 20px;">
   <h4>Tableau Demo</h4>
@@ -25,7 +17,6 @@ This project involved developing an automated, real-time Tableau dashboard that 
 </div>
 
 </div>
-
 
 ---------
 
