@@ -4,7 +4,15 @@
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
   
-<h3>Music Streams Prediction Model</h3>
+<h3>
+  Music Streams Prediction Model
+  <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Music_Streams_Prediction_Model" target="_blank" style="text-decoration: none;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      View on GitHub
+    </button>
+  </a>
+</h3>
+
 
 <p>
 This project leverages Spotify and YouTube data (20,000+ records, 27 features) to develop a regression model for predicting song popularity. By employing advanced feature selection techniques like Boruta SHAP and Variance Inflation Factor (VIF), I identified key drivers, including comments, acoustic attributes, and optimal track duration. The model integrates interaction terms and non-linear components to uncover complex relationships between musical features and audience engagement. Findings provide actionable insights to inform data-driven decisions for music production, marketing campaigns, and playlist optimization, enabling stakeholders to enhance streaming performance and audience retention.
