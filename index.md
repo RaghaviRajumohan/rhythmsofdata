@@ -42,7 +42,14 @@ This project leverages Spotify and YouTube data (20,000+ records, 27 features) t
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>Music Streams Prediction Calculator</h3>
+<h3>
+  Music Streams Prediction Calculator
+  <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Streams_Prediction_Calculator" target="_blank" style="text-decoration: none;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
+      View on GitHub
+    </button>
+  </a>
+</h3>
 
 <p>
 This tool extends the streams prediction model by providing an interactive, cloud-hosted interface that allows users to input song features and receive real-time streaming predictions. Designed to empower music industry stakeholders, the calculator supports data-driven decision-making for production, marketing, and playlist optimization strategies. Its intuitive design bridges technical insights with actionable business applications, enhancing the utility of predictive analytics in the music industry.
@@ -69,7 +76,14 @@ This tool extends the streams prediction model by providing an interactive, clou
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>Dynamic Concert Ticket Price Prediction Model</h3>
+<h3>
+  Dynamic Concert Ticket Price Prediction Model
+  <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Dynamic_ticket_price_prediction_model" target="_blank" style="text-decoration: none;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
+      View on GitHub
+    </button>
+  </a>
+</h3>
 
 <p>
 I developed a custom dataset to train a predictive model for concert ticket pricing, incorporating variables such as artist popularity, event timing, and supporting acts. Using advanced data analysis and modeling techniques, I identified key drivers influencing ticket prices and delivered actionable insights for strategic pricing. To enhance practical application, I built a Dynamic Ticket Price Calculator, an intuitive, user-friendly tool enabling stakeholders to input event details and receive instant price predictions. This project empowers the events industry with data-driven strategies, optimizing revenue generation and enhancing decision-making in real time.
@@ -102,7 +116,14 @@ I developed a custom dataset to train a predictive model for concert ticket pric
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>Music Genre Classification Model</h3>
+<h3>
+  Music Genre Classification Model
+  <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Music_Genre_Classification_Model" target="_blank" style="text-decoration: none;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
+      View on GitHub
+    </button>
+  </a>
+</h3>
 
 <p>
 In this project, I developed a machine learning model to classify songs into genres based on audio features, including tempo, rhythm, and frequency, extracted directly from audio files. Through feature analysis, I identified key attributes that differentiate genres and trained a predictive model to achieve high classification accuracy. This work demonstrates the power of data-driven insights in understanding and organizing music. Applications include music recommendation systems, playlist curation, and enhancing audience engagement strategies in the music industry.
@@ -137,7 +158,14 @@ In this project, I developed a machine learning model to classify songs into gen
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>YouTube Comments Sentiment Analysis</h3>
+<h3>
+  YouTube Comments Sentiment Analysis
+  <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Youtube_Comments_Sentiment_Analysis" target="_blank" style="text-decoration: none;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
+      View on GitHub
+    </button>
+  </a>
+</h3>
 
 <p>
 This project analyzes audience sentiment in the music industry by leveraging the YouTube API to extract video metadata and comments. I performed data cleaning and developed a machine learning model to classify comments into positive, neutral, or negative sentiment. Additionally, I conducted a regression analysis to examine the relationship between sentiment scores, engagement metrics (e.g., likes, comments), and video view counts. The findings offer actionable insights to optimize content strategies and enhance audience engagement, empowering artists and industry stakeholders to strengthen connections with their audiences.
@@ -167,7 +195,14 @@ This project analyzes audience sentiment in the music industry by leveraging the
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>Automated Music Metrics Extraction</h3>
+<h3>
+  Automated Music Metrics Extraction
+  <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Cloud_Automated_Music_Metrics" target="_blank" style="text-decoration: none;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
+      View on GitHub
+    </button>
+  </a>
+</h3>
 
 <p>
 This project automates the daily tracking and analysis of music-related metrics across platforms using the YouTube Data API and Spotify Web API. Key metrics, such as views, likes, comments, subscriber counts, Spotify popularity, and follower data, are extracted and stored in a centralized Google Sheet for streamlined analysis. Additionally, comment data, including timestamps and sentiment scores, is collected to facilitate engagement analysis. This system provides a scalable solution for monitoring audience behavior, offering valuable insights to inform marketing strategies and content optimization in the music industry.
