@@ -81,10 +81,11 @@ This project involved developing an automated, real-time Tableau dashboard that 
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/SQL_Automation-lightgrey?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Automation Badge" />
+<img src="https://img.shields.io/badge/SQL_Automation-lightgrey?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Automation Badge" />
 <img src="https://img.shields.io/badge/Tableau-orange?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge" />
 <img src="https://img.shields.io/badge/Time_Series_Analysis-purple?style=flat-square&logo=pandas&logoColor=white" alt="Time Series Analysis Badge" />
 </p>
+
 
 
 <div style="text-align: center; margin-top: 20px;">
