@@ -7,11 +7,12 @@
 <h3>
   Music Streams Prediction Model
   <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Music_Streams_Prediction_Model" target="_blank" style="text-decoration: none;">
-    <button style="margin-left: 10px; padding: 5px 10px; background-color: #0366d6; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
       View on GitHub
     </button>
   </a>
 </h3>
+
 
 
 <p>
