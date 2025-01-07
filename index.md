@@ -80,6 +80,13 @@ I created a custom dataset to train a predictive model for concert ticket pricin
 This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s <code>statsmodels</code> library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
 </p>
 
+<p>
+<img src="https://img.shields.io/badge/SQL_Automation-lightgrey?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Automation Badge" />
+<img src="https://img.shields.io/badge/Tableau-orange?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge" />
+<img src="https://img.shields.io/badge/Time_Series_Analysis-purple?style=flat-square&logo=pandas&logoColor=white" alt="Time Series Analysis Badge" />
+</p>
+
+
 <div style="text-align: center; margin-top: 20px;">
   <h4>Tableau Demo</h4>
   <video width="500" height="350" controls>
