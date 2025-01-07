@@ -19,7 +19,7 @@ This project involved developing an automated, real-time Tableau dashboard that 
 <div style="text-align: center; margin-top: 20px;">
   <h4>Tableau Demo</h4>
   <video width="500" height="350" controls>
-    <source src="assets/Tableau Demo.mov" type="video/mp4">
+    <source src="assets/Tableau_Demo.mov" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
