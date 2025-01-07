@@ -1,6 +1,25 @@
 ## PROJECTS
 -----
 
+### Tableau Dashboard for Payroll Operations, University of California
+
+This project involved developing an automated, real-time Tableau dashboard that dynamically monitored tax forms and paycheck issuance for enhanced payroll decision-making. I designed a SQL-automated pipeline that fed live data into Tableau, utilizing dynamic filters to enable targeted analysis reports and generate actionable insights in real time. Additionally, I applied time series forecasting using Python’s `statsmodels` library (ARIMA) to predict future file volumes, aiding in optimized resource allocation and improved operational efficiency.
+
+![SQL Automation](https://img.shields.io/badge/SQL_Automation-lightgrey?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-lightgrey?style=flat-square&logo=tableau)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-lightgrey?style=flat-square)
+
+
+<div style="width: 100%; float: left;">
+  <h3>Tableau Demo</h3>
+  <video width="500" height="350" controls>
+    <source src="images/Tableau Demo.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+---------
+
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>Music Streams Prediction Model</h3>
 
