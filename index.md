@@ -15,7 +15,7 @@ This project analyzes Spotify and YouTube data to predict song popularity using 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
 <img src="https://img.shields.io/badge/Spotify_Data-green?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Badge" />
 <img src="https://img.shields.io/badge/YouTube_Data-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Badge" />
-<img src="https://img.shields.io/badge/Regression_Model-lightblue?style=flat-square&logo=scikit-learn&logoColor=white" alt="Regression Model Badge" />
+<img src="https://img.shields.io/badge/Regression_Model-lightblue?style=flat-square&logo=scikit-learn&logoColor=white" alt="Regression Badge" />
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap; gap: 20px;">
