@@ -174,6 +174,10 @@ This project involved developing an automated, real-time Tableau dashboard that 
 <img src="https://img.shields.io/badge/Time_Series_Analysis-purple?style=flat-square&logo=chart-bar&logoColor=white" alt="Time Series Analysis Badge" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Badge" />
+</p>
 
 <div style="text-align: center; margin-top: 20px;">
   <h4>Tableau Demo</h4>
