@@ -208,7 +208,7 @@ This project explores the sentiment behind audience reactions to YouTube videos.
 </h3>
 
 <p>
-This project automates the daily tracking and analysis of music-related metrics across platforms using the YouTube Data API and Spotify Web API. Key metrics, such as views, likes, comments, subscriber counts, Spotify popularity, and follower data, are extracted and stored in a centralized Google Sheet for streamlined analysis. Additionally, comment data, including timestamps and sentiment scores, is collected to facilitate engagement analysis. This system provides a scalable solution for monitoring audience behavior, offering valuable insights to inform marketing strategies and content optimization in the music industry.
+This project automates the daily tracking and analysis of music-related metrics across platforms using the YouTube Data API and Spotify Web API. Key metrics, such as views, likes, comments, subscriber counts, Spotify popularity, and follower data, are extracted and stored in a centralized Google Sheet for streamlined analysis. Additionally, comment data, including timestamps and sentiment scores, is collected to facilitate engagement analysis. This system provides a scalable solution for monitoring audience behavior, offering real-time updates and actionable insights for artists, managers, and stakeholders, enabling efficient performance evaluation, audience sentiment analysis, and trend identification across platforms.
 </p>
 
 <p>
