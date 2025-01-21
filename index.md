@@ -3,34 +3,6 @@
 -----
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>Tableau Dashboard for Payroll Operations, University of California</h3>
-<p>
-I developed a real-time, automated Tableau dashboard to monitor tax form issuance and paycheck delivery, streamlining payroll decision-making. The project involved designing a SQL-automated data pipeline to feed live data into Tableau, enabling dynamic filtering and targeted analysis reports for actionable insights. To enhance forecasting capabilities, I implemented time series models (ARIMA) using Python’s Statsmodels library, predicting future file volumes to optimize resource allocation and improve operational efficiency.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge" />
-  <img src="https://img.shields.io/badge/SQL%20Pipeline-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Pipeline Badge" />
-  <img src="https://img.shields.io/badge/Dynamic%20Filters-blue?style=flat-square&logo=tableau&logoColor=white" alt="Dynamic Filters Badge" />
-  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-4CAF50?style=flat-square&logo=python&logoColor=white" alt="Time Series Forecasting Badge" />
-  <img src="https://img.shields.io/badge/ARIMA%20Model-3776AB?style=flat-square&logo=python&logoColor=white" alt="ARIMA Model Badge" />
-  <img src="https://img.shields.io/badge/Operational%20Efficiency-orange?style=flat-square&logo=data-analysis&logoColor=white" alt="Operational Efficiency Badge" />
-  <img src="https://img.shields.io/badge/Resource%20Optimization-8E44AD?style=flat-square&logo=data-analysis&logoColor=white" alt="Resource Optimization Badge" />
-</p>
-
-
-<div style="text-align: center; margin-top: 20px;">
-  <h4>Tableau Demo</h4>
-  <video width="500" height="350" controls>
-    <source src="assets/Tableau_Demo.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-</div>
-
---------
-<div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
   
 <h3>
   Music Streams Prediction Model
@@ -267,3 +239,32 @@ This project automates the daily tracking and analysis of music-related metrics 
 </div>
 
 ---------
+
+<div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
+<h3>Tableau Dashboard for Payroll Operations, University of California</h3>
+<p>
+I developed a real-time, automated Tableau dashboard to monitor tax form issuance and paycheck delivery, streamlining payroll decision-making. The project involved designing a SQL-automated data pipeline to feed live data into Tableau, enabling dynamic filtering and targeted analysis reports for actionable insights. To enhance forecasting capabilities, I implemented time series models (ARIMA) using Python’s Statsmodels library, predicting future file volumes to optimize resource allocation and improve operational efficiency.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau Badge" />
+  <img src="https://img.shields.io/badge/SQL%20Pipeline-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Pipeline Badge" />
+  <img src="https://img.shields.io/badge/Dynamic%20Filters-blue?style=flat-square&logo=tableau&logoColor=white" alt="Dynamic Filters Badge" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-4CAF50?style=flat-square&logo=python&logoColor=white" alt="Time Series Forecasting Badge" />
+  <img src="https://img.shields.io/badge/ARIMA%20Model-3776AB?style=flat-square&logo=python&logoColor=white" alt="ARIMA Model Badge" />
+  <img src="https://img.shields.io/badge/Operational%20Efficiency-orange?style=flat-square&logo=data-analysis&logoColor=white" alt="Operational Efficiency Badge" />
+  <img src="https://img.shields.io/badge/Resource%20Optimization-8E44AD?style=flat-square&logo=data-analysis&logoColor=white" alt="Resource Optimization Badge" />
+</p>
+
+
+<div style="text-align: center; margin-top: 20px;">
+  <h4>Tableau Demo</h4>
+  <video width="500" height="350" controls>
+    <source src="assets/Tableau_Demo.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+</div>
+
+--------
