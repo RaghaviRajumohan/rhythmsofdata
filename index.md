@@ -75,7 +75,7 @@ The data was analyzed using 20,000 records and the model incorporates interactio
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>
   Time-Series Analysis of Healthcare Demand for Fargo Health
-  <a href="https://github.com/RaghaviRajumohan/Fargo-Health-Demand-Analysis" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/RaghaviRajumohan/Business-Analysis-Report" target="_blank" style="text-decoration: none;">
     <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
       View on GitHub
     </button>
