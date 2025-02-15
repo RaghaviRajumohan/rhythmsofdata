@@ -71,51 +71,6 @@ The data was analyzed using 20,000 records and the model incorporates interactio
 </div>
 </div>
 
------
-<div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>
-  Time-Series Analysis of Healthcare Demand for Fargo Health
-  <a href="https://github.com/RaghaviRajumohan/Business-Analysis-Report" target="_blank" style="text-decoration: none;">
-    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
-      View on GitHub
-    </button>
-  </a>
-</h3>
-
-<p>
-This project tackled the critical issue of staffing shortages at Fargo Health's clinics by developing a time-series analysis model to predict future demand for cardiovascular examinations. Using historical examination data, the project focused on identifying trends, filling missing values through advanced imputation methods, and ensuring robust data cleaning to enhance forecast accuracy. An ARIMA(0,1,1) model was implemented, leveraging Python’s Statsmodels library, to predict monthly demand and guide optimal resource allocation across clinics.
-</p>
-
-<p>
-Key outcomes included reducing rerouted examinations to costly out-of-network clinics, improving operational efficiency, and ensuring compliance with Fargo's 30-day mandate for disability examination results. Forecasts and confidence intervals were visualized to highlight demand trends and enable data-driven decision-making.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-4CAF50?style=flat-square&logo=python&logoColor=white" alt="Time Series Analysis Badge" />
-  <img src="https://img.shields.io/badge/Data%20Imputation-blue?style=flat-square&logo=python&logoColor=white" alt="Data Imputation Badge" />
-  <img src="https://img.shields.io/badge/ARIMA%20Model-3776AB?style=flat-square&logo=python&logoColor=white" alt="ARIMA Model Badge" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning-orange?style=flat-square&logo=python&logoColor=white" alt="Data Cleaning Badge" />
-  <img src="https://img.shields.io/badge/Healthcare%20Forecasting-red?style=flat-square&logo=data-analysis&logoColor=white" alt="Healthcare Forecasting Badge" />
-  <img src="https://img.shields.io/badge/Resource%20Allocation-purple?style=flat-square&logo=data-analysis&logoColor=white" alt="Resource Allocation Badge" />
-</p>
-
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <div style="width: 45%; text-align: center;">
-    <p><strong>Trend Analysis and Moving Average</strong></p>
-    <img src="assets/moving_average.png" alt="Moving Average Plot" style="width: 100%; height: auto;" />
-  </div>
-  <div style="width: 45%; text-align: center;">
-    <p><strong>Seasonality Detection</strong></p>
-    <img src="assets/seasonality.png" alt="Seasonality Plot" style="width: 100%; height: auto;" />
-  </div>
-</div>
-
-<div style="text-align: center; margin-top: 20px;">
-  <p><strong>Forecast Visualization</strong></p>
-  <img src="assets/forecast_plot.png" alt="Forecast Plot" style="width: 80%; height: auto;" />
-</div>
-</div>
-
 --------
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
@@ -309,6 +264,52 @@ This project automates the daily tracking and analysis of music-related metrics 
       Your browser does not support the video tag.
     </video>
   </div>
+</div>
+</div>
+
+---------
+
+<div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
+<h3>
+  Time-Series Analysis of Healthcare Demand for Fargo Health
+  <a href="https://github.com/RaghaviRajumohan/Business-Analysis-Report" target="_blank" style="text-decoration: none;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
+      View on GitHub
+    </button>
+  </a>
+</h3>
+
+<p>
+This project tackled the critical issue of staffing shortages at Fargo Health's clinics by developing a time-series analysis model to predict future demand for cardiovascular examinations. Using historical examination data, the project focused on identifying trends, filling missing values through advanced imputation methods, and ensuring robust data cleaning to enhance forecast accuracy. An ARIMA(0,1,1) model was implemented, leveraging Python’s Statsmodels library, to predict monthly demand and guide optimal resource allocation across clinics.
+</p>
+
+<p>
+Key outcomes included reducing rerouted examinations to costly out-of-network clinics, improving operational efficiency, and ensuring compliance with Fargo's 30-day mandate for disability examination results. Forecasts and confidence intervals were visualized to highlight demand trends and enable data-driven decision-making.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-4CAF50?style=flat-square&logo=python&logoColor=white" alt="Time Series Analysis Badge" />
+  <img src="https://img.shields.io/badge/Data%20Imputation-blue?style=flat-square&logo=python&logoColor=white" alt="Data Imputation Badge" />
+  <img src="https://img.shields.io/badge/ARIMA%20Model-3776AB?style=flat-square&logo=python&logoColor=white" alt="ARIMA Model Badge" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-orange?style=flat-square&logo=python&logoColor=white" alt="Data Cleaning Badge" />
+  <img src="https://img.shields.io/badge/Healthcare%20Forecasting-red?style=flat-square&logo=data-analysis&logoColor=white" alt="Healthcare Forecasting Badge" />
+  <img src="https://img.shields.io/badge/Resource%20Allocation-purple?style=flat-square&logo=data-analysis&logoColor=white" alt="Resource Allocation Badge" />
+</p>
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
+  <div style="width: 45%; text-align: center;">
+    <p><strong>Trend Analysis and Moving Average</strong></p>
+    <img src="assets/moving_average.png" alt="Moving Average Plot" style="width: 100%; height: auto;" />
+  </div>
+  <div style="width: 45%; text-align: center;">
+    <p><strong>Seasonality Detection</strong></p>
+    <img src="assets/seasonality.png" alt="Seasonality Plot" style="width: 100%; height: auto;" />
+  </div>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <p><strong>Forecast Visualization</strong></p>
+  <img src="assets/forecast_plot.png" alt="Forecast Plot" style="width: 80%; height: auto;" />
 </div>
 </div>
 
