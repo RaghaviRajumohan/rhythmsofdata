@@ -6,23 +6,29 @@ description: >
   <div style="position: relative; max-width: 800px; margin: 20px auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #ffffff;">
   <!-- Experience 1 -->
   <div style="padding: 8px 0; border-bottom: 1px solid #ddd;">
-    <div style="font-weight: bold; color: #6e8cd4; font-size: 0.75em;">Jul 2024 - Present</div>
-    <div style="font-weight: bold; font-size: 0.95em;">Data Metrics Analyst Intern</div>
-    <div style="font-size: 0.85em;">University of California, Office of the President</div>
+    <div style="font-weight: bold; color: #6e8cd4; font-size: 0.75em;">Jul 2025 - Present</div>
+    <div style="font-weight: bold; font-size: 0.95em;">Pricing Analyst Intern</div>
+    <div style="font-size: 0.85em;">Ticketmaster, LiveNation Entertainment</div>
   </div>
   <!-- Experience 2 -->
   <div style="padding: 8px 0; border-bottom: 1px solid #ddd;">
-    <div style="font-weight: bold; color: #6e8cd4; font-size: 0.75em;">Jan 2024 - May 2024</div>
-    <div style="font-weight: bold; font-size: 0.95em;">Data Analyst and Project Mentor</div>
-    <div style="font-size: 0.85em;">UCLA Alumni Affairs</div>
+    <div style="font-weight: bold; color: #6e8cd4; font-size: 0.75em;">Jul 2024 - Sept2024</div>
+    <div style="font-weight: bold; font-size: 0.95em;">Data Metrics Analyst Intern</div>
+    <div style="font-size: 0.85em;">University of California, Office of the President</div>
   </div>
   <!-- Experience 3 -->
+  <div style="padding: 8px 0; border-bottom: 1px solid #ddd;">
+    <div style="font-weight: bold; color: #6e8cd4; font-size: 0.75em;">Jan 2024 - May 2024</div>
+    <div style="font-weight: bold; font-size: 0.95em;">Data Scientist and Project Mentor</div>
+    <div style="font-size: 0.85em;">UCLA Alumni Affairs</div>
+  </div>
+  <!-- Experience 4 -->
   <div style="padding: 8px 0; border-bottom: 1px solid #ddd;">
     <div style="font-weight: bold; color: #6e8cd4; font-size: 0.75em;">Sep 2020 - Jul 2023</div>
     <div style="font-weight: bold; font-size: 0.95em;">Data Analysis General Manager</div>
     <div style="font-size: 0.85em;">WageIndicator Foundation Research Lab</div>
   </div>
-  <!-- Experience 4 -->
+  <!-- Experience 5 -->
   <div style="padding: 8px 0;">
     <div style="font-weight: bold; color: #6e8cd4; font-size: 0.75em;">May 2021 - Jul 2022</div>
     <div style="font-weight: bold; font-size: 0.95em;">Business Development Intern</div>
