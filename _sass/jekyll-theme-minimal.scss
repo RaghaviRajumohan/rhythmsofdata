@@ -301,3 +301,28 @@ footer {
     margin: 0 auto;
   }
 }
+@media screen and (max-width: 768px) {
+  section {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 12px;
+    box-sizing: border-box;
+  }
+
+  .wrapper {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 12px;
+    box-sizing: border-box;
+  }
+
+  iframe,
+  video,
+  img {
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 auto;
+  }
+}
