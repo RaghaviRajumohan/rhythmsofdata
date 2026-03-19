@@ -289,3 +289,15 @@ footer {
     color:#444;
   }
 }
+
+@media screen and (max-width: 768px) {
+  iframe,
+  video,
+  img {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin: 0 auto;
+  }
+}
