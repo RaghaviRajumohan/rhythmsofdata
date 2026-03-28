@@ -30,7 +30,45 @@ I developed a real-time, automated Tableau dashboard to monitor tax form issuanc
 
 --------
 
+<div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
+<h3>
+  Dynamic Concert Ticket Price Prediction Model
+  <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Dynamic_ticket_price_prediction_model" target="_blank" style="text-decoration: none;">
+    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
+      View on GitHub
+    </button>
+  </a>
+</h3>
 
+<p>
+This custom dataset is a trained predictive model for concert ticket pricing, identifying the importance of factors like artist popularity, event timing, and supporting acts on willingness to spend. Weight of factor importance was determined by analysis and model development, with largest drivers incorporated into a user-friendly tool that predicts ticket price based on event details. This tool could be used to optimize revenue based on event features.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Predictive%20Model-0052CC?style=flat-square&logo=scikit-learn&logoColor=white" alt="Predictive Model Badge" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-blue?style=flat-square&logo=python&logoColor=white" alt="Data Engineering Badge" />
+  <img src="https://img.shields.io/badge/Custom%20Dataset-orange?style=flat-square&logo=data-analysis&logoColor=white" alt="Custom Dataset Badge" />
+  <img src="https://img.shields.io/badge/Dynamic%20Pricing-4CAF50?style=flat-square&logo=data-analysis&logoColor=white" alt="Dynamic Pricing Badge" />
+  <img src="https://img.shields.io/badge/Revenue%20Optimization-8E44AD?style=flat-square&logo=data-analysis&logoColor=white" alt="Revenue Optimization Badge" />
+</p>
+
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
+  <div style="width: 50%; text-align: center;">
+    <p><strong>Demo</strong></p>
+    <video autoplay loop muted controls style="width: 100%; height: auto;">
+      <source src="assets/demo.mov" type="video/quicktime">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div style="width: 55%; text-align: center;">
+    <p><strong>Important Features</strong></p>
+    <img src="assets/importance.png" alt="Important Features" style="width: 100%; height: auto;"/>
+  </div>
+</div>
+</div>
+
+-----
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
   
 <h3>
@@ -107,45 +145,7 @@ The interactive Streams Prediction Calculator allows users to input song feature
 
 -----
 
-<div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
-<h3>
-  Dynamic Concert Ticket Price Prediction Model
-  <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Dynamic_ticket_price_prediction_model" target="_blank" style="text-decoration: none;">
-    <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
-      View on GitHub
-    </button>
-  </a>
-</h3>
 
-<p>
-This custom dataset is a trained predictive model for concert ticket pricing, identifying the importance of factors like artist popularity, event timing, and supporting acts on willingness to spend. Weight of factor importance was determined by analysis and model development, with largest drivers incorporated into a user-friendly tool that predicts ticket price based on event details. This tool could be used to optimize revenue based on event features.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Predictive%20Model-0052CC?style=flat-square&logo=scikit-learn&logoColor=white" alt="Predictive Model Badge" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-blue?style=flat-square&logo=python&logoColor=white" alt="Data Engineering Badge" />
-  <img src="https://img.shields.io/badge/Custom%20Dataset-orange?style=flat-square&logo=data-analysis&logoColor=white" alt="Custom Dataset Badge" />
-  <img src="https://img.shields.io/badge/Dynamic%20Pricing-4CAF50?style=flat-square&logo=data-analysis&logoColor=white" alt="Dynamic Pricing Badge" />
-  <img src="https://img.shields.io/badge/Revenue%20Optimization-8E44AD?style=flat-square&logo=data-analysis&logoColor=white" alt="Revenue Optimization Badge" />
-</p>
-
-
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <div style="width: 50%; text-align: center;">
-    <p><strong>Demo</strong></p>
-    <video autoplay loop muted controls style="width: 100%; height: auto;">
-      <source src="assets/demo.mov" type="video/quicktime">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  <div style="width: 55%; text-align: center;">
-    <p><strong>Important Features</strong></p>
-    <img src="assets/importance.png" alt="Important Features" style="width: 100%; height: auto;"/>
-  </div>
-</div>
-</div>
-
------
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>
