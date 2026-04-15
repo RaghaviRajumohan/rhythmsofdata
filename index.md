@@ -213,10 +213,7 @@ This project explores the sentiment behind audience reactions to YouTube videos.
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 20px;">
-  <div style="width: 45%; text-align: center;">
-    <p><strong>Word Cloud of Comments</strong></p>
-    <img src="assets/word_cloud.png" alt="Word Cloud" style="width: 100%; height: auto;"/>
-  </div>
+
   <div style="width: 45%; text-align: center;">
     <p><strong>Sentiment Distribution</strong></p>
     <img src="assets/sentiment_dist.png" alt="Sentiment Distribution" style="width: 100%; height: auto;"/>
