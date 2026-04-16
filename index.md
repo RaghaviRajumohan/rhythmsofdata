@@ -32,7 +32,7 @@ I developed a real-time, automated Tableau dashboard to monitor tax form issuanc
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>
-  Dynamic Concert Ticket Price Prediction Model
+  Dynamic Price Prediction Model
   <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Dynamic_ticket_price_prediction_model" target="_blank" style="text-decoration: none;">
     <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
       View on GitHub
@@ -72,7 +72,7 @@ This custom dataset is a trained predictive model for concert ticket pricing, id
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
   
 <h3>
-  Music Streams Prediction Model
+   Views Prediction Model
   <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Music_Streams_Prediction_Model" target="_blank" style="text-decoration: none;">
     <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
       View on GitHub
@@ -113,7 +113,7 @@ The data was analyzed using 20,000 records and the model incorporates interactio
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>
-  Music Streams Prediction Calculator
+  Views Prediction Calculator
   <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Streams_Prediction_Calculator" target="_blank" style="text-decoration: none;">
     <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
       View on GitHub
@@ -149,7 +149,7 @@ The interactive Streams Prediction Calculator allows users to input song feature
 
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>
-  Music Genre Classification Model
+  Music Category Classification Model
   <a href="https://github.com/RaghaviRajumohan/Rhythms-of-Data/tree/main/Music_Genre_Classification_Model" target="_blank" style="text-decoration: none;">
     <button style="margin-left: 10px; padding: 5px 10px; background-color: #d9eaf7; color: #1a4e8a; border: 1px solid #1a4e8a; border-radius: 5px; cursor: pointer; font-weight: bold;">
       View on GitHub
