@@ -4,7 +4,7 @@
 <div style="box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 30px; border-radius: 8px; background-color: #fff;">
 <h3>Tableau Dashboard for Payroll Operations, University of California</h3>
 <p>
-I developed a real-time, automated Tableau dashboard to monitor tax form issuance and paycheck delivery, streamlining payroll decision-making. The project involved designing a SQL-automated data pipeline to feed live data into Tableau, enabling dynamic filtering and targeted analysis reports for actionable insights. To enhance forecasting capabilities, I implemented time series models (ARIMA) using Python’s Statsmodels library, predicting future file volumes to optimize resource allocation and improve operational efficiency.
+I developed a real-time, automated Tableau dashboard to monitor tax form issuance and paycheck delivery, streamlining payroll decision-making. The project involved designing a SQL data pipeline to feed live data into Tableau, enabling dynamic filtering and targeted analysis reports for actionable insights.
 </p>
 
 <p>
