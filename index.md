@@ -57,7 +57,7 @@ This custom dataset is a trained predictive model for concert ticket pricing, id
   <div style="width: 50%; text-align: center;">
     <p><strong>Demo</strong></p>
     <video autoplay loop muted controls style="width: 100%; height: auto;">
-      <source src="assets/demo.mov" type="video/quicktime">
+      <source src="assets/demo.mov" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -137,7 +137,7 @@ The interactive Streams Prediction Calculator allows users to input song feature
 <div style="text-align: center; margin-top: 20px;">
   <p><strong>Demo</strong></p>
   <video autoplay loop muted controls style="width: 60%; max-width: 300px; height: auto;">
-    <source src="assets/Calc_demo.mov" type="video/quicktime">
+    <source src="assets/Calc_demo.mov" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -253,14 +253,14 @@ This project automates the daily tracking and analysis of music-related metrics 
   <div style="width: 80%; text-align: center;">
     <p><strong>Demo 1: Daily Metrics Tracker</strong></p>
     <video autoplay loop muted controls style="width: 100%; height: auto;">
-      <source src="assets/top_videos.mov" type="video/quicktime">
+      <source src="assets/top_videos.mov" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   <div style="width: 80%; text-align: center;">
     <p><strong>Demo 2: Comments Tracker</strong></p>
     <video autoplay loop muted controls style="width: 100%; height: auto;">
-      <source src="assets/comments_track.mov" type="video/quicktime">
+      <source src="assets/comments_track.mov" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
